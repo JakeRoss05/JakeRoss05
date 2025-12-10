@@ -1,6 +1,6 @@
 👋 Hey, I'm Jake
 
-I'm a 19-year-old developer from the UK who fell in love with Computer Science because it’s the closest thing to turning ideas into reality. I love the feeling of taking something that only exists in your head and engineering it into something structured, fast, and actually useful. That mix of creativity, problem-solving, and control is what hooked me.
+I'm a 19-year-old developer from the UK who fell in love with Computer Science because it’s the closest thing to turning ideas into reality. I love the feeling of taking something that only exists in your head and engineering it into something structured, fast, and actually useful. I first picked up video games when I tried Mario Kart Wii and soon later got an xbox 360 for my birthday in 2011. Since then, Ive been interested in how the things we rely on and intereact with everyday are actually made and after I got into PC gaming, my love for computer science went crazy.
 
 🔥 What I’m Into
 
