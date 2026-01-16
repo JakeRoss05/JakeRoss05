@@ -44,4 +44,11 @@ Better system-level reasoning (design patterns, data flow, modularity)
 I want to build proper software — not throwaway scripts, but systems that feel intentional, polished, and thought-through. CS gives me focus and a sense of progress, and I’m aiming to build a career where I get to solve real problems and refine my craft long-term.
 
 <!--START_SECTION:waka-->
+
+```txt
+HTML         5 mins          █████████████▓░░░░░░░░░░░   54.82 %
+JavaScript   4 mins          ███████████░░░░░░░░░░░░░░   44.18 %
+Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+```
+
 <!--END_SECTION:waka-->
