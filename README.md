@@ -46,9 +46,11 @@ I want to build proper software — not throwaway scripts, but systems that feel
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          59 mins         ████████████░░░░░░░░░░░░░   47.56 %
-HTML         42 mins         ████████▓░░░░░░░░░░░░░░░░   34.02 %
-JavaScript   22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
+CSS          1 hr 12 mins    ████████░░░░░░░░░░░░░░░░░   31.68 %
+JavaScript   1 hr 1 min      ██████▓░░░░░░░░░░░░░░░░░░   26.61 %
+Java         47 mins         █████░░░░░░░░░░░░░░░░░░░░   20.53 %
+HTML         43 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
+XML          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 ```
 
 <!--END_SECTION:waka-->
