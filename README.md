@@ -46,8 +46,7 @@ I want to build proper software — not throwaway scripts, but systems that feel
 <!--START_SECTION:waka-->
 
 ```txt
-C#      1 hr 7 mins     █████████████████████████   99.73 %
-Java    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+C#      1 hr 7 mins     █████████████████████████   99.91 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
