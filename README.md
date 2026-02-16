@@ -46,9 +46,9 @@ I want to build proper software — not throwaway scripts, but systems that feel
 <!--START_SECTION:waka-->
 
 ```txt
-Java         2 hrs 37 mins   ███████████████████████▒░   93.01 %
+Java         2 hrs 39 mins   ███████████████████████▓░   94.61 %
 C#           7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
