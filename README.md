@@ -46,7 +46,7 @@ I want to build proper software — not throwaway scripts, but systems that feel
 <!--START_SECTION:waka-->
 
 ```txt
-Java   1 hr 15 mins          █████████████████████████   100.00 %
+Java   51 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
