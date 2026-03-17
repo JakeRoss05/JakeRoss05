@@ -46,8 +46,7 @@ I want to build proper software — not throwaway scripts, but systems that feel
 <!--START_SECTION:waka-->
 
 ```txt
-C#    27 mins               ████████████████████████▒   97.48 %
-Git   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
