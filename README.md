@@ -46,8 +46,7 @@ I want to build proper software — not throwaway scripts, but systems that feel
 <!--START_SECTION:waka-->
 
 ```txt
-Unity3D Asset   12 mins               ████████████████░░░░░░░░░   64.24 %
-C#              6 mins                █████████░░░░░░░░░░░░░░░░   35.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
