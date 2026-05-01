@@ -46,11 +46,11 @@ I want to build proper software — not throwaway scripts, but systems that feel
 <!--START_SECTION:waka-->
 
 ```txt
-C#              1 hr 50 mins          ██████████████▒░░░░░░░░░░   57.81 %
-Other           1 hr 16 mins          ██████████░░░░░░░░░░░░░░░   39.95 %
-INI             4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-GLSL            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Text            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C#         1 hr 57 mins          ██████████████░░░░░░░░░░░   56.64 %
+Other      1 hr 26 mins          ██████████▒░░░░░░░░░░░░░░   41.31 %
+INI        4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+GLSL       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
