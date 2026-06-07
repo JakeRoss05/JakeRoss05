@@ -46,10 +46,10 @@ I want to build proper software — not throwaway scripts, but systems that feel
 <!--START_SECTION:waka-->
 
 ```txt
-C#              4 hrs 10 mins         ██████████████████▓░░░░░░   75.06 %
-Unity3D Asset   1 hr 3 mins           ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
-Other           17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Markdown        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+C#              4 hrs 7 mins          ███████████████████░░░░░░   76.55 %
+Unity3D Asset   56 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
+Other           16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Markdown        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
